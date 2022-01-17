@@ -16,8 +16,18 @@
 
 ### >Release history :
 1. Open JPDB Dashboard:
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+      ![Dashboard](https://github.com/Unna0421/login2xplore/blob/main/Dashboard.PNG)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+2. Creating a connection token :
+
+      ![TOKEN](https://github.com/Unna0421/login2xplore/blob/main/Token.PNG)
+
+3. Uploading data using different IML, IRL commands :
+
+      ![API](https://github.com/Unna0421/login2xplore/blob/main/API.PNG)
+4. Now Visulizing the uploaded data on JPDB dashboard : 
+
+      ![Databases](https://github.com/Unna0421/login2xplore/blob/main/Databases.png)
+      ![DATA](https://github.com/Unna0421/login2xplore/blob/main/DATA.png)
+
