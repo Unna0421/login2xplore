@@ -1,8 +1,9 @@
 # login2xplore
 
-###Project Name: Creating Web Project in Netbeans
+###Project Name
+Creating Web Project in Netbeans
 
-###Description :
+###Description 
  Created HTML form using Netbeans where data will be automatically stored in JSONPowerDB by using PUT command 
 
 ### Benefits of using JsonPowerDB
